@@ -1,0 +1,28 @@
+User steps to follow for the case study
+----------------------------------------
+The page will display:
+
+1) Over all pie chart Showing the number of benign and vandal by year users.  
+
+2) Bubble chart showing the overall trend chart by category.
+
+3) Use the filter on top of the pie chart to filter the user count by years. 
+
+4) Use the bubble chart to see the trend by category.
+
+5) Click either on the pie chart's sector (vandal or benign users), or the legend below to load the scatter plot for 
+   that year and check the difference between the vandal users and the benign users.
+
+6) Use brush to drag and select a some of the users from the scatter plot and find the button "Plot node link"
+   click on it. this will load a node link plot below the scatter plot.
+
+7) This will show 3 of the behavior comparison between vandal and benign users
+	 
+	 a) The node link will have users as the center and small nodes connected to them which will be user which edited 
+	 	them, the edge length will be the mean difference between each consecutive edits. most of the vandal’s users have a mean edit time of less the 15 minutes.
+	 
+	 b) If the pages have white border then they are not involved in a edit war by that user, but if they are black 
+	 	then they are involved in wars most of the vandal users are involved in edit wars.
+	 
+	 c) If the name of the user is in black, then the user has edit a meta page. *Meta pages are the talk pages where 
+	 	users will discuss the edits before editing any pages. most of the vandal users are not likely to edit an meta page.

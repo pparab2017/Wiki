@@ -1,0 +1,28 @@
+Can users complete key tasks with no un-answered questions?
+Are users able to locate key features & functionality that the site provides?
+Do users understand our primary and secondary navigation?
+Is there important information missing from our key pages?
+What do users make of our targeted landing pages?
+Does our search facility meet user expectations?
+Are users able to use our page control features easily?
+Are we providing the right level of product information detail?
+Do we provide suitable tools for which users can compare products & specifications?
+How do users respond to our cross sell and up-sell promotions?
+Do our primary USP's get seen by all users, irrespective of where they go on the website
+Do we make our full proposition transparent to users?
+Does our page load speed cause any issues with the users site experience?
+At what stages do users exhibit anxiety during a user journey i.e. application, checkout, sign-up, booking, reservation
+Are users able to locate the button/action we want them to do on key pages?
+What issues do users have when completing our web forms?
+What flexibility do users expect to have at specific parts of their user journey?
+What exactly is stopping users from doing what we want them to?
+How can we make our website experience more intelligent to speed up how users interact with us online?
+
+
+
+
+1) Did you find anythig confusing in the system?
+2) If yes? then what and why?
+3) User bservations
+4) based on the obsearvation some of the questions
+5) think out loud?
